@@ -48,5 +48,25 @@ var edadAna, edadMaria, diferenciaEdad;
 edadAna = 34;
 edadMaria = 28;
 
-var mayorAna = edadAna > edadMaria;
+var mayorAna =  !(edadAna == edadMaria);
 console.log(mayorAna);
+
+//Unarios ++ --
+
+edadAna++
+console.log(edadAna);
+console.log(edadAna++);
+console.log(edadAna);
+console.log(++edadAna);
+edadMaria--
+console.log(edadMaria);
+
+//Asignación += -= /= %=
+
+var a = 11;
+var b = 5;
+
+var c = a % 5; //Resto de una división
+console.log(c);
+a += b;
+console.log(a);

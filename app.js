@@ -1,4 +1,4 @@
-var nombre = 'Gerardo';
+/*var nombre = 'Gerardo';
 console.log(nombre);
 console.log(typeof(nombre));
 
@@ -18,4 +18,5 @@ console.log(typeof(tieneTrabajo));
 var puestoDeTrabajo;
 console.log(puestoDeTrabajo);
 puestoDeTrabajo=null;
-console.log(puestoDeTrabajo);
+console.log(puestoDeTrabajo); */
+

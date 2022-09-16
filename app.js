@@ -42,7 +42,7 @@ console.log(yearActual * 5);
 console.log(yearActual / 2);*/
 
 //Operadores Lógicos
-
+/*
 var edadAna, edadMaria, diferenciaEdad;
 
 edadAna = 34;
@@ -69,4 +69,15 @@ var b = 5;
 var c = a % 5; //Resto de una división
 console.log(c);
 a += b;
-console.log(a);
+console.log(a); */
+
+//sentencia if..else
+
+var nombre = "Pedro";
+var esCasado = false;
+
+if(esCasado == true){
+    console.log(nombre + ' es casado.');
+}else{
+    console.log(nombre + ' es soltero.');
+}

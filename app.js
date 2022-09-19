@@ -81,3 +81,7 @@ if(esCasado == true){
 }else{
     console.log(nombre + ' es soltero.');
 }
+
+function a (a){
+
+}
